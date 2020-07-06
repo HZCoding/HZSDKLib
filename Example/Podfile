@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HZSDKLib_Tests' do
+  pod 'HZSDKLib', :path => '../'
+  
+  
+end
